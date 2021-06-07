@@ -1,0 +1,184 @@
+﻿  EasyBMP.cpp
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\EasyBMP.cpp(994,13): warning C4101: 'ZeroWORD': unreferenced local variable
+  Image_.cpp
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(140,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(141,28): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(142,30): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(143,29): warning C4244: '=': conversion from 'float' to 'ebmpBYTE', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(258,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\Image_.cpp(480,148): warning C4244: '=': conversion from 'float' to '_Value_type', possible loss of data
+          with
+          [
+              _Value_type=int
+          ]
+  Main.cpp
+  UI.cpp
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(75,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(78,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(80,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(97,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(100,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(105,171): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(105,101): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(114,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(172,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(174,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(176,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(188,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(220,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(221,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(222,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(223,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(223,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(224,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(224,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(227,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(227,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(228,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(228,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(229,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(229,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(230,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(230,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(231,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(231,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(232,91): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(232,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(246,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(253,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(290,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\Parallel_img_edit\UI.cpp(295,84): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  831 of 850 functions (97.8%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Parallel_img_edit.vcxproj -> C:\Users\ASUS ROG\Desktop\SCHOOL\Y2_S2\202_PAULE_FINAL_IMG_EDIT\Coursework\x64\Release\Parallel_img_edit.exe
