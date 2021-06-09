@@ -17,7 +17,7 @@ SIMPLE PARALLEL IMAGE EDIT APP
 -SETUP:-
 
 	1.Start by extracting the downloaded github file.
-	2a. To simply run the application, go inside Exe_file and run Parallel_img_edit.exe
+	2a. To simply run the application, go inside Executable folder and run Parallel_img_edit.exe
 	2b. To view the code, open the solution file in the Source Code file. This application has been written using Visual Studio framework.
 
 -LEGAL:-
